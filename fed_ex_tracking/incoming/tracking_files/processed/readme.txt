@@ -1,0 +1,1 @@
+This file exists to allow Git to create this directory.
